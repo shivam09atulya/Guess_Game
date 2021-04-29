@@ -1,5 +1,5 @@
 # Guess_Game
-A guess game which takes input as while you speak
+A guess game which takes input while you speak
 A graphical game which takes input as you speak and accordingly suggests you to go high or low.
 There is also an hint option available .
 Just need to run on python 
